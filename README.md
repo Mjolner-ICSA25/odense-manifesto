@@ -1,1 +1,1 @@
-# odense-manifesto
+# Odense Manifesto
