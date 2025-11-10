@@ -32,6 +32,6 @@ Best regards, Agnete, Jens and Morten, Mjølner
 
 ## 10 November 2025
 
-We have now followed up on the "Odense Manifesto" i.e., working session "Dear Academia, architect for the future, for sure, but please don't forget about the present. Best regards, Industry" and developed and made available [a report on GitHub]( https://github.com/Mjolner-ICSA25/odense-manifesto/blob/656459f583479aa8c9c0a15642137bac397504c8/Odense%20Manifesto%20at%20ICSA%202025%20-%20Summary%20of%20Working%20Session.pdf). We also continued developing and critically synthesised the Odense Manifesto at ICSA 2025 in a contribution that is now accepted and available online as a [JSS Dear Readers column](https://www.sciencedirect.com/science/article/pii/S0164121225003504?via%3Dihub).
+We have now followed up on the "Odense Manifesto" i.e., working session "Dear Academia, architect for the future, for sure, but please don't forget about the present. Best regards, Industry" and developed and made available [a report on GitHub]( https://github.com/Mjolner-ICSA25/odense-manifesto/blob/656459f583479aa8c9c0a15642137bac397504c8/Odense%20Manifesto%20at%20ICSA%202025%20-%20Summary%20of%20Working%20Session.pdf). We also continued developing and critically synthesised the Odense Manifesto at ICSA 2025 in a contribution that is now accepted and available online as a [JSS Dear Researchers column](https://www.sciencedirect.com/science/article/pii/S0164121225003504?via%3Dihub).
 
 Best regards, Romina, Jens and Morten
